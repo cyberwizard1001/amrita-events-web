@@ -5,7 +5,7 @@ Vue.use(VueRouter)
  
   const routes = [
   {
-    path: '/',
+    path: '/signup',
     name: 'signup',
     component: () => import('../components/registration.vue')
   },
