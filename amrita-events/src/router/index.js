@@ -7,12 +7,12 @@ Vue.use(VueRouter)
   {
     path: '/',
     name: 'signup',
-    component: () => import('../components/Registration.vue')
+    component: () => import('../components/registration.vue')
   },
   {
     path: '/login',
     name: 'login',
-    component: () => import('../components/Login.vue')
+    component: () => import('../components/login.vue')
   },
   {
     path: '/forgot-password',

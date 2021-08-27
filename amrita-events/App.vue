@@ -1,10 +1,10 @@
 <template>
-  <div class="vue-tempalte">
+  <div class="vue-template">
     <!-- Navigation -->
     <nav class="navbar shadow bg-white rounded justify-content-between flex-nowrap flex-row fixed-top">
       <div class="container">
-        <a class="navbar-brand float-left" href="https://www.positronx.io" target="_blank">
-           positronX.io
+        <a class="navbar-brand float-left" href="https://github.com" target="_blank">
+           GitHub placeholder
         </a>
         <ul class="nav navbar-nav flex-row float-right">
           <li class="nav-item">
